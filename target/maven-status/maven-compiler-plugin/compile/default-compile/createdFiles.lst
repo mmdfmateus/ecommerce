@@ -1,0 +1,6 @@
+com\mycompany\ecommerce\Models\IdentifiableModel.class
+com\mycompany\ecommerce\Models\Address.class
+com\mycompany\ecommerce\Models\Order.class
+com\mycompany\ecommerce\Models\Product.class
+com\mycompany\ecommerce\Models\Sale.class
+com\mycompany\ecommerce\Models\User.class
